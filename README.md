@@ -1,5 +1,5 @@
 # Wall-1
-*This is the source code of my wall-1 discord bot..*
+*This is the source code of my wall-1 discord bot. You can see the project page <a href='http://main.st4lwolf.org/projects/wall-1/index.html'>here.</a>*
 
 **Versions:**   
 the different versions are represented by the folders at the root of the github branch. For example, to get the complete code of version 1.3, you need to 
@@ -15,6 +15,6 @@ This one is mainly used to tell your hosting service which python libraries to i
 **Credits:**
 -I've started to build the random story generator from <a href='https://trinket.io/python/37f7ad3152'>this project.</a>
 
--mc-seed-converter tool is based from an old project from me, you can find it there.
+-mc-seed-converter tool is based from an old project from me, you can find it <a href='https://github.com/Malwprotector/mc-seed-converter'>here.</a>
     
 Powered and made with <3 by St4lW | https://github.com/malwprotector
