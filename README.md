@@ -1,10 +1,6 @@
 # Wall-1
 *This is the source code of my wall-1 discord bot. You can see the project page <a href='http://main.st4lwolf.org/projects/wall-1/index.html'>here.</a>*
 
-**Versions:**   
-the different versions are represented by the folders at the root of the github branch. For example, to get the complete code of version 1.3, you need to 
-access the `automod_v1.3` folder. 
-
 **File information:**   
 When you access the directory for a release, there are several files. The file with the `.py` extension (in the above example `wall-1.py`) is 
 simply the complete wall-1 code. Please note that if you wish to use it and/or modify the code, you must enter your discord bot token in the end of the file. You can simply get it on discord developer portal.     
